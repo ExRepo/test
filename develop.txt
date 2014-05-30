@@ -1,1 +1,3 @@
 Новый файл в develop branch
+
+Добавил эту строку в master/develop
