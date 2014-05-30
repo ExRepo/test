@@ -1,6 +1,0 @@
-﻿Новый файл в develop branch
-
-Добавил эту строку в master/develop
-
-Отредактировал удалённо без слияния с origin/develop
-Добавил эту строку в origin/dev
